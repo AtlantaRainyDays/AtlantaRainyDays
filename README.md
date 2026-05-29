@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋, I'm AtlantaRainyDays
 
-<!--
-**AtlantaRainyDays/AtlantaRainyDays** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Frontend Developer & Designer
 
-Here are some ideas to get you started:
+I specialize in Scripting, UI/UX/GFX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```lua
+local AtlantaRainyDays = {
+    role = "Frontend Developer & Designer",
+    focus = "Programming",
+    languages = {
+        "Lua",
+        "Luau",
+        "Python",
+    },
+    interests = {
+        "Game Development",
+        "UI/UX Design",
+        "",
+    },
+    currentProjects = {
+        "Brainstorming new ideas 💡 [nothing]",
+    },
+    goals = {
+        "Collaborate with talented developers",
+        "Contribute to the community",
+    },
+}
+
+return AtlantaRainyDays
